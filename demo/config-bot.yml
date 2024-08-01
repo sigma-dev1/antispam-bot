@@ -1,4 +1,4 @@
-bottoken: "TOKEN"
+bottoken: "7321290330:AAH12yXCPeZAAgrNekprzYGi3zEt98M6E2I"
 redisurl: "redis://redis:6379"
 #git: # Optional arguments.
 #  tmpdir: "/tmp/xxx"
